@@ -1,11 +1,11 @@
-/* Reset básico do CSS */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Mudança da fonte e configuração geral */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f5f5f5;
@@ -13,7 +13,7 @@ body {
     padding: 1rem;
 }
 
-/* Estilização do header */
+
 header {
     background-color: #d90429;
     height: 8rem;
@@ -27,7 +27,7 @@ header h1 {
     font-size: 2.5rem;
 }
 
-/* Estilização da div.manchester */
+
 .manchester {
     display: flex;
     justify-content: space-between;
@@ -44,7 +44,7 @@ header h1 {
     width: 15rem;
 }
 
-/* Estilização da div.portugal */
+
 .portugal {
     background-color: #8ecae6;
     height: 25rem;
@@ -64,7 +64,7 @@ header h1 {
     max-width: 20rem;
 }
 
-/* Estilização da div.real */
+
 .real {
     display: flex;
     flex-direction: column;
